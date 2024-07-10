@@ -21,10 +21,10 @@ Players have attributes: [health, strength, and attack].
 
 
 ******************************************************************************************************************
-Requirements- 
-******************************************************************************************************************
+Requirements- Java Development Kit (JDK) 8 or higher
 
-Java Development Kit (JDK) 8 or higher
+
+
 
 
 
